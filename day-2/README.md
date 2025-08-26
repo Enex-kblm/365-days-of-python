@@ -57,17 +57,17 @@ Program mendukung berbagai format URL GitHub:
 
 ## Contoh Output
 ```
- ____                   ____  _                   _       _ _           
+ ____                    ____  _                   _       _ _           
 |  _ \ ___ _ __   ___   / ___|| |_ ___  _ __ _   _| |_ ___| | | ___ _ __ 
 | |_) / _ \ '_ \ / _ \  \___ \| __/ _ \| '__| | | | __/ _ \ | |/ _ \ '__|
 |  _ <  __/ |_) | (_) |  ___) | || (_) | |  | |_| | ||  __/ | |  __/ |   
 |_| \_\___| .__/ \___/  |____/ \__\___/|_|   \__, |\__\___|_|_|\___|_|   
-          |_|                               |___/                       
+          |_|                                |___/                       
 
 📖 Sebuah Perjalanan: Enex-kblm/365-days-of-python
 
-🌱 Pada 15 Januari 2024, lahirlah sebuah gagasan.
-   Enex Kblm menorehkan baris kode pertama,
+🌱 Pada 26 August 2025, lahirlah sebuah gagasan.
+   Enex-kblm menorehkan baris kode pertama,
    seperti seorang penulis yang menulis kata pembuka dalam sebuah buku.
    Dari sinilah cerita repository ini dimulai.
 
@@ -75,16 +75,16 @@ Program mendukung berbagai format URL GitHub:
    Setiap perubahan adalah sebuah bab baru,
    penuh dengan ide, perbaikan, dan semangat untuk tumbuh.
 
-⚡ Hingga akhirnya pada 20 Januari 2024,
+⚡ Hingga akhirnya pada 26 August 2025,
    tercatat sebuah commit terbaru yang berbicara lantang:
-   → "Add day-2: GitHub Repository Storyteller"
+   → "Create repo_storyteller.py"
    Seolah menjadi tanda bahwa perjalanan ini belum berakhir,
    melainkan sedang menuju ke arah yang lebih besar.
 
 👑 Dari semua tokoh yang hadir dalam kisah ini,
-   sosok paling gigih adalah Enex Kblm,
-   dengan 15 kontribusi berharga
-   dari total 15 jejak langkah terakhir.
+   sosok paling gigih adalah Enex-kblm,
+   dengan 5 kontribusi berharga
+   dari total 5 jejak langkah terakhir.
 
 🚀 Maka, repository ini bukan hanya sekumpulan kode.
    Ia adalah saksi perjalanan, wujud ide yang hidup,
