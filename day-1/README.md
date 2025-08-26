@@ -69,7 +69,7 @@ Program mendukung berbagai format penulisan persamaan:
 
 ## Contoh Output
 
-![Contoh Grafik SPLDV](day-1/spldv.png)
+![Contoh Grafik SPLDV](https://raw.githubusercontent.com/Enex-kblm/365-days-of-python/refs/heads/main/day-1/spldv.png)
 
 Grafik menampilkan:
 - **Garis biru**: Persamaan pertama
